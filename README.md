@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Tyagi</h1>
-<h3 align="center">I am a Computer Science engineer with strong expertise in Data Structures, Algorithms, and Machine Learning. My coursework includes key areas like Operating Systems, Linear Algebra, Probability & Statistics, and Cyber Security.I am proficient in C/C++, Python, Java, JavaScript, and SQL, with hands-on experience in tools like Git, Jupyter, VS Code, and AWS. I am eager to apply my skills through internships.</h3>
+<h3 align="center">I am a Computer Science engineer with strong expertise in Data Structures, Algorithms, and Machine Learning. My coursework includes key areas like Operating Systems, Linear Algebra, Probability & Statistics.I am proficient in C/C++, Python, Java, JavaScript, and SQL, with hands-on experience in tools like Git, Jupyter, VS Code, and AWS. I am eager to apply my skills through internships.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Utkarsh-Tyagi-16&label=Profile%20views&color=0e75b6&style=flat" alt="Utkarsh-Tyagi-16" /> </p>
 
