@@ -72,13 +72,13 @@ Currently seeking internships to expand my skills in **Gen AI**, **ML Engineerin
 
 #### 🤖 AI/ML & GenAI Stack
 `PyTorch`, `TensorFlow`, `Keras`, `OpenCV`, `scikit-learn`, `Pandas`, `NumPy`, `Seaborn`,  
-`HuggingFace Transformers`, `spaCy`, `NLTK`, `CNNs`, `RNNs`, `AR.js`
+`HuggingFace Transformers`, `spaCy`, `NLTK`, `CNNs`, `RNNs`
 
 #### ☁️ DevOps & Cloud
 `AWS`, `Git`, `GitHub Actions`, `Render`, `Vercel`, `Streamlit`
 
 #### 🔧 Tools & Platforms
-`Jupyter Notebook`, `VS Code`, `MySQL`, `SQLite`, `PostgreSQL`, `Linux`, `Arduino`
+`Jupyter Notebook`, `VS Code`, `MySQL`, `SQLite`, `PostgreSQL`
 
 ---
 
