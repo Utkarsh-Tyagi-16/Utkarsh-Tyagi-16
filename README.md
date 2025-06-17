@@ -37,6 +37,7 @@ Currently seeking internships to expand my skills in **Gen AI**, **ML Engineerin
 
 📫 **Reach Me At**  
 📧 utkarshty2004@gmail.com  
+🌎 Portfolio Link https://personal-portfolio-plum-pi-24.vercel.app/
 
 ---
 
