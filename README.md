@@ -91,7 +91,7 @@ Currently seeking internships to expand my skills in **Gen AI**, **ML Engineerin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Tyagi-16&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Tyagi-16&layout=compact&langs_count=20&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
