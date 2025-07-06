@@ -2,17 +2,13 @@
 <h3 align="center">🚀 Full Stack Developer | Gen AI Enthusiast | Machine Learning Specialist | Deep Learning Engineer</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="200"/>
-  <img src="https://media.giphy.com/media/l0Ex7TtFz3E9AAhUk/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/3o7btXJQm5DD8KdpW8/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
+  <img src="https://cdn.dribbble.com/.../School-Assets-Laptop.gif" width="200" alt="Student at laptop"/>
+  <img src="https://i.pinimg.com/originals/.../boy-laptop.gif" width="200" alt="Cartoon kid on laptop"/>
+  <img src="https://cdn.dribbble.com/.../Young-buck-with-laptop.gif" width="200" alt="Working on laptop"/>
+  <img src="https://i.pinimg.com/originals/.../characters-with-laptop.gif" width="200" alt="Group studying"/>
 </p>
 
-## 🌀 Perfectly Looped Aesthetic GIF
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Looped Animation" width="400"/>
-</p>
 
 ---
 
