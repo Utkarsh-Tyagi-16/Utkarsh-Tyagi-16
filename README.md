@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Tyagi</h1>
 <h3 align="center">🚀 Full Stack Developer | Gen AI Enthusiast | Machine Learning Specialist | Deep Learning Engineer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Utkarsh-Tyagi-16&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ### 🎯 About Me
