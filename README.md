@@ -2,7 +2,10 @@
 <h3 align="center">🚀 Full Stack Developer | Gen AI Enthusiast | Machine Learning Specialist | Deep Learning Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Utkarsh-Tyagi-16&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l0Ex7TtFz3E9AAhUk/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o7btXJQm5DD8KdpW8/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
 </p>
 
 ## 🌀 Perfectly Looped Aesthetic GIF
