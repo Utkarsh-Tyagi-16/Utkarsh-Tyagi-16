@@ -5,6 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=Utkarsh-Tyagi-16&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+## 🌀 Perfectly Looped Aesthetic GIF
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Looped Animation" width="400"/>
+</p>
+
 ---
 
 ### 🎯 About Me
