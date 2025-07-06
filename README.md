@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Tyagi</h1>
 <h3 align="center">🚀 Full Stack Developer | Gen AI Enthusiast | Machine Learning Specialist | Deep Learning Engineer</h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/.../School-Assets-Laptop.gif" width="200" alt="Student at laptop"/>
-  <img src="https://i.pinimg.com/originals/.../boy-laptop.gif" width="200" alt="Cartoon kid on laptop"/>
-  <img src="https://cdn.dribbble.com/.../Young-buck-with-laptop.gif" width="200" alt="Working on laptop"/>
-  <img src="https://i.pinimg.com/originals/.../characters-with-laptop.gif" width="200" alt="Group studying"/>
-</p>
-
-
-
 ---
 
 ### 🎯 About Me
