@@ -1,3 +1,5 @@
+
+You said:
 <h1 align="center">Hi 👋, I'm Utkarsh Tyagi</h1>
 <h3 align="center">🚀 Full Stack Developer | Gen AI Enthusiast | Machine Learning Specialist | Deep Learning Engineer</h3>
 
@@ -23,7 +25,7 @@ Currently seeking internships to expand my skills in **Gen AI**, **ML Engineerin
 
 ### 💡 Highlights
 
-- 🧠 **Gen AI Projects**: Chatbots, ISL to Text Translator (`Signify`), Text-to-Sign + AR Models  
+- 🧠 **Gen AI Projects**: Chatbots, ISL to Text Translator (Signify), Text-to-Sign + AR Models  
 - 🚗 **Self-Driving Car**: Virtual simulation with object detection (92% accuracy) & road sign recognition (97%)  
 - 🤖 **ML Models**: Disease Prediction, Behavioral Cloning, Feedback Loop Learning  
 - ⚙️ Hands-on with CV, real-time processing, interactive UIs, cloud tools, and performance optimization  
@@ -32,8 +34,8 @@ Currently seeking internships to expand my skills in **Gen AI**, **ML Engineerin
 
 ### 💬 Ask Me About
 
-`Generative AI`, `Full Stack Dev`, `NLP`, `OpenCV`, `Computer Vision`,  
-`Machine Learning`, `Python`, `C++`, `Java`, `TensorFlow`, `PyTorch`, `AWS`
+Generative AI, Full Stack Dev, NLP, OpenCV, Computer Vision,  
+Machine Learning, Python, C++, Java, TensorFlow, PyTorch, AWS
 
 📫 **Reach Me At**  
 📧 utkarshty2004@gmail.com  
@@ -66,34 +68,34 @@ Currently seeking internships to expand my skills in **Gen AI**, **ML Engineerin
 ### 🛠️ Languages, Libraries & Tools
 
 #### 💻 Programming Languages
-`C++`, `Python`, `Java`, `JavaScript`, `SQL`, `HTML/CSS`
+C++, Python, Java, JavaScript, SQL, HTML/CSS
 
 #### 🌐 Full Stack Development
-`React.js`, `Node.js`, `Express.js`, `MongoDB`, `Next.js`, `TailwindCSS`, `Firebase`, `Django`, `Flask`
+React.js, Node.js, Express.js, MongoDB, Next.js, TailwindCSS, Firebase, Django, Flask
 
 #### 🤖 AI/ML & GenAI Stack
-`PyTorch`, `TensorFlow`, `Keras`, `OpenCV`, `scikit-learn`, `Pandas`, `NumPy`, `Seaborn`,  
-`HuggingFace Transformers`, `spaCy`, `NLTK`, `CNNs`, `RNNs`
+PyTorch, TensorFlow, Keras, OpenCV, scikit-learn, Pandas, NumPy, Seaborn,  
+HuggingFace Transformers, spaCy, NLTK, CNNs, RNNs
 
 #### ☁️ DevOps & Cloud
-`AWS`, `Git`, `GitHub Actions`, `Render`, `Vercel`, `Streamlit`
+AWS, Git, GitHub Actions, Render, Vercel, Streamlit
 
 #### 🔧 Tools & Platforms
-`Jupyter Notebook`, `VS Code`, `MySQL`, `SQLite`, `PostgreSQL`
+Jupyter Notebook, VS Code, MySQL, SQLite, PostgreSQL
 
 ---
-
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Tyagi-16&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-Tyagi-16&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Tyagi-16&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-Tyagi-16&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Tyagi-16&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Tyagi-16&layout=compact&langs_count=20&theme=tokyonight&hide_border=true" width="60%" />
 </p>
+
 ---
 
 ### 🧠 Featured Projects
