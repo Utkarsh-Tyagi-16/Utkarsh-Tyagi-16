@@ -83,17 +83,17 @@ Currently seeking internships to expand my skills in **Gen AI**, **ML Engineerin
 
 ---
 
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Tyagi-16&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-Tyagi-16&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Tyagi-16&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-Tyagi-16&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Tyagi-16&layout=compact&langs_count=20&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Tyagi-16&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="60%" />
 </p>
-
 ---
 
 ### 🧠 Featured Projects
